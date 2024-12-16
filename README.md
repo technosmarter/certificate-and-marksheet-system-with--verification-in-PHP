@@ -57,7 +57,7 @@ This certificate and marksheet system is designed for ease of use and security, 
 
 # Installation – 
 The marksheet management system is developed with an installer. You can easily install a marksheet management system with a single form. <br>
-1.	First , get <a href="https://technosmarter.com/item/result-management-system-with-marksheet-in-php-website">Techno
+1.	First , get <a href="https://technosmarter.com/item/result-management-system-with-marksheet-in-php-website">
 Certificate and Marksheet system with verification & Franchise in PHP</a> from here. You can watch the complete demo there. Get a certificate and marksheet management system and download the zip file. <br>
 2.	Extract the zip file. <br>
 3.	Use a live server or local server.<br> 
