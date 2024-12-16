@@ -1,4 +1,4 @@
-# Certuficate and Mareksheet system with verification and franchise feature in PHP 
+# Certificate and Mareksheet system with verification and franchise feature in PHP 
 Certificate and marksheet system with verification and Franchise features in PHP and MYSQL 
 Certificates and mark sheets are commonly used in schools, colleges, institutes, and businesses. This system for creating certificates and mark sheets is built using PHP and includes features like verification and franchise management. 
 <img src="https://technosmarter.com/assets/item/certificate-and-marksheet-system-in-php.jpg" class="img-center">
